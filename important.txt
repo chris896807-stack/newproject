@@ -1,9 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 imports importive
 test
 
 new activite add
 new aww! 
+=======
+imports importantive
+>>>>>>> featA
 =======
 imports importantive
 >>>>>>> featA
